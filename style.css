@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-image: url("fortnite.png");
+      background-repeat: no-repeat;
+      height: 50px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+#cranking {
+  height: 400px;
+  width: 450px;
+}
+
+h2 {
+ font-family: 'Open Sans', sans-serif;
+}
+
+#fortnite{
+  width:100%;
+}
